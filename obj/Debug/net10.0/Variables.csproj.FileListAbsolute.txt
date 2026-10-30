@@ -1,0 +1,14 @@
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\bin\Debug\net10.0\Variables.exe
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\bin\Debug\net10.0\Variables.deps.json
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\bin\Debug\net10.0\Variables.runtimeconfig.json
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\bin\Debug\net10.0\Variables.dll
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\bin\Debug\net10.0\Variables.pdb
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\Variables.AssemblyInfoInputs.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\Variables.AssemblyInfo.cs
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\Variables.dll
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\refint\Variables.dll
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\Variables.pdb
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\Variables.genruntimeconfig.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\obj\Debug\net10.0\ref\Variables.dll
