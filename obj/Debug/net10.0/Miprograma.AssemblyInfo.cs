@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Miprograma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3fcc94308a3b1c277dddac686e9707daa6683bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Miprograma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Miprograma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
