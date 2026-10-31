@@ -1,0 +1,15 @@
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\bin\Debug\net10.0\Miprograma.exe
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\bin\Debug\net10.0\Miprograma.deps.json
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\bin\Debug\net10.0\Miprograma.runtimeconfig.json
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\bin\Debug\net10.0\Miprograma.dll
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\bin\Debug\net10.0\Miprograma.pdb
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.AssemblyInfoInputs.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.AssemblyInfo.cs
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.csproj.CoreCompileInputs.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.dll
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\refint\Miprograma.dll
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.pdb
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.genruntimeconfig.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\ref\Miprograma.dll
+C:\Users\euri_\OneDrive\Documents\Tareasitla\Miprograma\obj\Debug\net10.0\Miprograma.sourcelink.json
