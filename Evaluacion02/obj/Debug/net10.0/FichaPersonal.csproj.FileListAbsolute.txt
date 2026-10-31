@@ -1,0 +1,5 @@
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\Evaluacion02\obj\Debug\net10.0\FichaPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\Evaluacion02\obj\Debug\net10.0\FichaPersonal.AssemblyInfoInputs.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\Evaluacion02\obj\Debug\net10.0\FichaPersonal.AssemblyInfo.cs
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\Evaluacion02\obj\Debug\net10.0\FichaPersonal.csproj.CoreCompileInputs.cache
+C:\Users\euri_\OneDrive\Documents\Tareasitla\02-Variables\Evaluacion02\obj\Debug\net10.0\FichaPersonal.sourcelink.json
