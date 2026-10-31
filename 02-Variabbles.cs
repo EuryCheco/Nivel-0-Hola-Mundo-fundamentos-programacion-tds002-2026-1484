@@ -3,7 +3,7 @@ class program
     static void Main(string[] args)
     {
         Console.WriteLine("Escribe tu Nombre");
-        string nombre = Console.ReadLine();
+        string nombre = Console.ReadLine()!;
 
         Console.WriteLine("Escribe tu edad");
         int edad = Convert.ToInt32(Console.ReadLine());
