@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\Miprograma\\Miprograma.csproj": {}
+    "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Miprograma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\Miprograma\\Miprograma.csproj": {
+    "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Miprograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\Miprograma\\Miprograma.csproj",
+        "projectUniqueName": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Miprograma.csproj",
         "projectName": "Miprograma",
-        "projectPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\Miprograma\\Miprograma.csproj",
+        "projectPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Miprograma.csproj",
         "packagesPath": "C:\\Users\\euri_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\Miprograma\\obj\\",
+        "outputPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

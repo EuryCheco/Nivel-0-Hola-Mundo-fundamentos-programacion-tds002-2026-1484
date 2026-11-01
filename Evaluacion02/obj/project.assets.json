@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Evaluacion02\\FichaPersonal.csproj",
-      "projectName": "FichaPersonal",
-      "projectPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Evaluacion02\\FichaPersonal.csproj",
+      "projectUniqueName": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Evaluacion02\\Casting.csproj",
+      "projectName": "Casting",
+      "projectPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Evaluacion02\\Casting.csproj",
       "packagesPath": "C:\\Users\\euri_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Evaluacion02\\obj\\",
       "projectStyle": "PackageReference",

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Variables.csproj",
-      "projectName": "Variables",
-      "projectPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Variables.csproj",
+      "projectUniqueName": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Miprograma.csproj",
+      "projectName": "Miprograma",
+      "projectPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\Miprograma.csproj",
       "packagesPath": "C:\\Users\\euri_\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\obj\\",
       "projectStyle": "PackageReference",
@@ -352,13 +352,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\euri_\\OneDrive\\Documents\\Tareasitla\\02-Variables\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    }
-  ]
+  }
 }
